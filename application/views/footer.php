@@ -1,3 +1,4 @@
+	<script type="text/javascript" src="<?=PUBLIC_URL?>js/common.js"></script>
 	<script type="text/javascript" src="<?=PUBLIC_URL?>js/viewer.js"></script>
 	<script type="text/javascript">
 		var vieweroptions = { url: 'data-original' };
