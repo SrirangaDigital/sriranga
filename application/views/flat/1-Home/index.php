@@ -1,8 +1,8 @@
 <div class="container">
-	<div id="homePageCarousel" class="carousel slide row align-items-center" data-ride="carousel" data-interval="1000">
+	<div id="homePageCarousel" class="carousel slide row align-items-center" data-ride="carousel" data-interval="5000">
 		<div class="carousel-inner">
 			<div class="carousel-item active text-carousel">
-	        	<p>We are a technology research company,<br /> dedicated to develop software and standards for the use of<br /><a href="#">Indian languages</a> in computers.</p>
+	        	<p>We are a technology research company,<br /> dedicated to developing software and standards for the use of<br /><a href="#">Indian languages</a> in computers.</p>
 	        	<p class="more"><a href="">View research and open source projects</a></p>
 			</div>
 			<div class="carousel-item text-carousel">
